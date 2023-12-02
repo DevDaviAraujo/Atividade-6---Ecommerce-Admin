@@ -1,0 +1,18 @@
+.card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+  }
+  
+  .cardShop {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 1px 1px 1px 1px;
+  
+  
+  }
+
+  .caixinha {
+    width: 200px;
+    height: auto;
+    font: arial 15pt normal;
+  }
+  

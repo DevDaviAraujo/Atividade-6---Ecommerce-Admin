@@ -1,0 +1,51 @@
+footer {
+  bottom: 0;
+  width: 100%;
+  height: max-content;
+  
+}
+
+.busca input {
+  border-radius: 15px;
+  border: none;
+  width: 210px;
+  height: 40px;
+  padding-left: 15px;
+  background-color: #1e1c2e;
+  color: #b6b6b6; 
+  margin-bottom: 15px;
+}
+
+a{
+  text-decoration:none;
+  color: black;
+}
+
+a:hover{
+  text-decoration:none;
+  color: black;
+}
+
+nav {
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  font-size: 20px;
+}
+
+body {
+  font-family: 'Calibri', sans-serif;
+}
+
+.rodape {
+  font-size: 20px;
+}
+
+.busca {
+  border-radius: 15px;
+  border: none;
+  width: 210px;
+  height: 40px;
+  padding-left: 15px;
+  background-color: #1e1c2e;
+  color: #b6b6b6; 
+  margin-bottom: 15px;
+}
